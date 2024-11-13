@@ -1,1 +1,4 @@
-httpd:2.4.62
+node:v3.24.5
+cni:v3.24.5
+kube-controllers:v3.24.5
+typha:v3.24.5
