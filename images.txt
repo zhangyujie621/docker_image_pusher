@@ -1,5 +1,1 @@
-
-registry.cn-beijing.aliyuncs.com/dotbalo/kube-controllers:v3.24.5
-registry.cn-beijing.aliyuncs.com/dotbalo/typha:v3.24.5
-registry.cn-beijing.aliyuncs.com/dotbalo/cni:v3.24.5
-registry.cn-beijing.aliyuncs.com/dotbalo/node:v3.24.5
+zabbix/zabbix-server-mysql:centos-7.0.5
