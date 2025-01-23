@@ -1,2 +1,1 @@
-
-registry.k8s.io/metrics-server/metrics-server:v0.7.2
+easzlab/nfs-subdir-external-provisioner:v4.0.2
