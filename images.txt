@@ -1,2 +1,3 @@
 henker/centos7:latest
 nginx:1.18
+busybox:latest
