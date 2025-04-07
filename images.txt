@@ -1,2 +1,2 @@
 henker/centos7:latest
-nginx/nginx:1.18
+nginx:1.18
